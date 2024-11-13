@@ -1,5 +1,9 @@
 # MIPS Assembly Linear Regression with Mean Squared Error Calculation
 
+Girish Krishnan | [LinkedIn](https://www.linkedin.com/in/girk) | [GitHub](https://www.github.com/Girish-Krishnan)
+
+---
+
 This project implements linear regression in MIPS Assembly, including data parsing, model training, and error evaluation through Mean Squared Error (MSE) calculation. The program reads data points from a file, computes a linear regression line using gradient descent, and outputs the model equation along with the MSE.
 
 ---
@@ -26,7 +30,7 @@ Of course, it's not the most practical (nor efficient) way to perform linear reg
 ### Step 1: Download & Install MARS Simulator
 The [MARS MIPS simulator](https://computerscience.missouristate.edu/mars-mips-simulator.htm) is required to run this project. Follow these steps to install:
 
-1. Download the latest version of the MARS simulator from [the official page](https://computerscience.missouristate.edu/mars/download.htm).
+1. Download the latest version of the MARS simulator from [the official page](https://dpetersanderson.github.io/).
 2. Ensure you have Java installed, as MARS requires Java to run. You can download Java from [the official website](https://www.java.com/en/download/).
 3. Once downloaded, run the `Mars.jar` file to start the MIPS simulator. This can be done by double-clicking the file or running `java -jar Mars.jar` from the command line.
 
